@@ -28,13 +28,13 @@
 
 Увлекаюсь программированием, разработка веб-приложений на PHP **Laravel**, поднимаю разные web технологий у себя дома(HomeLab)
 
-* NextCloud
-* GitLab
-* DNS
-* VPN
-* KVM
-* ADguard
-* jellyfin
+* [NextCloud](https://nc.skk.kz)
+* [GitLab](https://gitlab.skk.kz)
+* DNS(локальный)
+* VPN(1 расположен на oracle cloud 2 дома для безопасного подключения по RDP)
+* KVM(Локальный)
+* Adguard(локальный)
+* [jellyfin](https://fl.skk.kz)
 
 *и еще разные технологий для саморазвития*
 
